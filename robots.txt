@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dina.p-host.in/sitemap.xml
